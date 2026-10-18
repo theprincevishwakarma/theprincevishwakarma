@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0b1026,45:1b1464,80:5b2a86,100:0b1026&section=header&text=Prince%20Vishwakarma&fontSize=52&fontColor=e0e7ff&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=7dd3fc&animation=fadeIn" alt="Prince Vishwakarma, Aspiring Software Engineer and Full-Stack Developer" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/theprincevishwakarma">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&height=48&lines=Dream.+Code.+Build.+Repeat.;Learning+full-stack+development;Practicing+DSA%2C+one+problem+at+a+time;Exploring+AI+and+Generative+AI;Building+real-world+projects" alt="Dream. Code. Build. Repeat." />
 </a>
 
@@ -13,9 +13,9 @@
 </p>
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1026" alt="Follow me on GitHub" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0b1026" alt="Connect with me on LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20Hello-e879f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1026" alt="Send me an email" /></a>
+  <a href="https://github.com/theprincevishwakarma"><img src="https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1026" alt="Follow me on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/prince-vishwakarma-0779b1431/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0b1026" alt="Connect with me on LinkedIn" /></a>
+  <a href="mailto:bitofprince@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-e879f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1026" alt="Send me an email" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22d3ee,50:7c3aed,100:f0abfc" alt="Gradient divider" />
@@ -53,7 +53,7 @@
 
 <h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend technologies: HTML, CSS, JavaScript, React, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" alt="Frontend technologies: HTML, CSS, JavaScript, React, Bootstrap, Tailwinds" />
 </p>
 
 <h4 align="center">Backend &amp; Database</h4>
@@ -65,7 +65,7 @@
 
 <h4 align="center">Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools: Git, GitHub, VS Code, Postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes&theme=dark" alt="Tools: Git, GitHub, VS Code, Docker, Kubernetes" />
 </p>
 
 <!-- ══════════════════════ 4. FEATURED PROJECT ══════════════════════ -->
@@ -78,7 +78,7 @@
 <p><i>A full-stack platform for exploring and managing property listings.</i></p>
 
 <!-- TODO: Replace the placeholder with a real screenshot, e.g. ./assets/staynest-preview.png -->
-<img width="90%" src="https://placehold.co/1200x630/0b1026/7dd3fc?text=StayNest+Screenshot+Placeholder" alt="Placeholder image: replace with a StayNest screenshot" />
+<img width="90%" src="https://res.cloudinary.com/frtasp0i/image/upload/v1791617659/StayNest_Home_Page.png" alt="Placeholder image: replace with a StayNest screenshot" />
 
 <br/><br/>
 
@@ -108,11 +108,11 @@
 
 <br/><br/>
 
-<a href="YOUR_STAYNEST_REPO_URL"><img src="https://img.shields.io/badge/View%20Repository-GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1026" alt="View the StayNest repository on GitHub" /></a>
+<a href="https://github.com/theprincevishwakarma/WanderLust"><img src="https://img.shields.io/badge/View%20Repository-GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1026" alt="View the StayNest repository on GitHub" /></a>
 
-<!-- Add the next line ONLY when you have a real deployment URL. Otherwise leave it commented out or delete it.
-<a href="YOUR_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/Live%20Demo-Visit-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1026" alt="Open the StayNest live demo" /></a>
--->
+<!-- Add the next line ONLY when you have a real deployment URL. Otherwise leave it commented out or delete it. -->
+
+<a href="https://staynest-3ihr.onrender.com/listings"><img src="https://img.shields.io/badge/Live%20Demo-Visit-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1026" alt="Open the StayNest live demo" /></a>
 
 </div>
 
@@ -121,9 +121,9 @@
 
 <div align="center">
 
-| Project      | What it is                           | Stack                                     | Links                                |
-| :----------- | :----------------------------------- | :---------------------------------------- | :----------------------------------- |
-| **StayNest** | Full-stack property listing platform | Node.js, Express, MongoDB, EJS, Bootstrap | [Repository](YOUR_STAYNEST_REPO_URL) |
+| Project      | What it is                           | Stack                                     | Links                                                            |
+| :----------- | :----------------------------------- | :---------------------------------------- | :--------------------------------------------------------------- |
+| **StayNest** | Full-stack property listing platform | Node.js, Express, MongoDB, EJS, Bootstrap | [Repository](https://github.com/theprincevishwakarma/WanderLust) |
 
 <!-- COPY THIS ROW FOR EACH NEW PROJECT (keep it right below the StayNest row, no blank line):
 | **Project Name** | One-line description | Tech, Tech, Tech | [Repository](REPO_URL) · [Live Demo](DEMO_URL) |
@@ -137,16 +137,20 @@
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theprincevishwakarma&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprincevishwakarma&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=theprincevishwakarma&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/theprincevishwakarma/theprincevishwakarma/output/activity-graph.svg"
+    alt="Prince Vishwakarma's GitHub Contribution Activity"
+  />
 </p>
 
 <!-- ══════════════════════ 7. CONTRIBUTION SNAKE ══════════════════════ -->
@@ -155,9 +159,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-    <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theprincevishwakarma/theprincevishwakarma/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theprincevishwakarma/theprincevishwakarma/output/github-snake.svg" />
+    <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/theprincevishwakarma/theprincevishwakarma/output/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
@@ -199,9 +203,9 @@
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1026" alt="GitHub profile" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0b1026" alt="LinkedIn profile" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-e879f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1026" alt="Email me" /></a>
+  <a href="https://github.com/theprincevishwakarma"><img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1026" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/prince-vishwakarma-0779b1431/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0b1026" alt="LinkedIn profile" /></a>
+  <a href="mailto:bitofprince@gmail.com"><img src="https://img.shields.io/badge/Email-e879f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1026" alt="Email me" /></a>
 </p>
 
 <!-- ══════════════════════ 11. FOOTER ══════════════════════ -->
