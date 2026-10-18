@@ -1,5 +1,12 @@
 
 <!-- ═══════════════ HERO SECTION ═══════════════ -->
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/theprincevishwakarma/theprincevishwakarma/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div>
 
 <div align="center">
 
