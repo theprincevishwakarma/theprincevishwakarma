@@ -145,13 +145,15 @@
   <img src="https://streak-stats.demolab.com?user=theprincevishwakarma&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img
+<!-- <p align="center">
+
+<img
     width="100%"
     src="https://raw.githubusercontent.com/theprincevishwakarma/theprincevishwakarma/output/activity-graph.svg"
     alt="Prince Vishwakarma's GitHub Contribution Activity"
   />
-</p>
+
+</p> -->
 
 <!-- ══════════════════════ 7. CONTRIBUTION SNAKE ══════════════════════ -->
 <!-- REQUIRES the GitHub Actions workflow from the setup guide. Until it has run once, these images will be broken. -->
