@@ -1,307 +1,214 @@
+<!-- ══════════════════════ 1. CINEMATIC HERO ══════════════════════ -->
+<div align="center">
 
-<!--
-  PRINCE VISHWAKARMA | GITHUB PROFILE
-  Replace YOUR_USERNAME, YOUR_LINKEDIN, YOUR_EMAIL
-  and the project URLs before publishing.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0b1026,45:1b1464,80:5b2a86,100:0b1026&section=header&text=Prince%20Vishwakarma&fontSize=52&fontColor=e0e7ff&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=7dd3fc&animation=fadeIn" alt="Prince Vishwakarma, Aspiring Software Engineer and Full-Stack Developer" />
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&height=48&lines=Dream.+Code.+Build.+Repeat.;Learning+full-stack+development;Practicing+DSA%2C+one+problem+at+a+time;Exploring+AI+and+Generative+AI;Building+real-world+projects" alt="Dream. Code. Build. Repeat." />
+</a>
+
+<p>
+  Hi, I'm <b>Prince</b>, an aspiring software engineer building full-stack web apps,<br/>
+  sharpening my problem-solving, and exploring how AI fits into software.
+</p>
+
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1026" alt="Follow me on GitHub" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0b1026" alt="Connect with me on LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20Hello-e879f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1026" alt="Send me an email" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22d3ee,50:7c3aed,100:f0abfc" alt="Gradient divider" />
+
+</div>
+
+<!-- ══════════════════════ 2. ABOUT ME ══════════════════════ -->
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  I'm early in my software engineering journey, and I'm learning by building.<br/>
+  I care about clean interfaces, code other people can read, and steady improvement over quick wins.
+</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">🌱 <b>Learning</b><br/><sub>Full-stack development with the MERN stack</sub></td>
+    <td align="center" width="50%">🧩 <b>Practicing</b><br/><sub>Data Structures and Algorithms</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">🤖 <b>Exploring</b><br/><sub>Artificial Intelligence and Generative AI</sub></td>
+    <td align="center" width="50%">🛠️ <b>Building</b><br/><sub>Real-world projects, starting with StayNest</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<i>"Small steps every day. Big progress over time."</i>
+
+</div>
+
+<!-- ══════════════════════ 3. TECH STACK ══════════════════════ -->
+<h2 align="center">Tech Stack</h2>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend technologies: HTML, CSS, JavaScript, React, Bootstrap" />
+</p>
+
+<h4 align="center">Backend &amp; Database</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies: Node.js, Express.js, MongoDB" /><br/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" alt="EJS" />
+</p>
+
+<h4 align="center">Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools: Git, GitHub, VS Code, Postman" />
+</p>
+
+<!-- ══════════════════════ 4. FEATURED PROJECT ══════════════════════ -->
+<h2 align="center">Featured Project</h2>
+
+<div align="center">
+
+<h3>StayNest — Property Listing Platform</h3>
+
+<p><i>A full-stack platform for exploring and managing property listings.</i></p>
+
+<!-- TODO: Replace the placeholder with a real screenshot, e.g. ./assets/staynest-preview.png -->
+<img width="90%" src="https://placehold.co/1200x630/0b1026/7dd3fc?text=StayNest+Screenshot+Placeholder" alt="Placeholder image: replace with a StayNest screenshot" />
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td width="50%">🔐 <b>Authentication &amp; authorization</b></td>
+    <td width="50%">🏠 <b>Create, edit and manage listings</b></td>
+  </tr>
+  <tr>
+    <td width="50%">⭐ <b>User reviews and ratings</b></td>
+    <td width="50%">☁️ <b>Cloudinary image storage</b></td>
+  </tr>
+  <tr>
+    <td width="50%">🗺️ <b>Interactive maps and location features</b></td>
+    <td width="50%">📱 <b>Responsive user interface</b></td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,bootstrap&theme=dark" alt="StayNest stack: Node.js, Express.js, MongoDB, Bootstrap" /><br/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" alt="EJS" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Mapbox-1f2937?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
+<img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" alt="Passport.js" />
+
+<br/><br/>
+
+<a href="YOUR_STAYNEST_REPO_URL"><img src="https://img.shields.io/badge/View%20Repository-GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1026" alt="View the StayNest repository on GitHub" /></a>
+
+<!-- Add the next line ONLY when you have a real deployment URL. Otherwise leave it commented out or delete it.
+<a href="YOUR_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/Live%20Demo-Visit-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1026" alt="Open the StayNest live demo" /></a>
 -->
 
+</div>
+
+<!-- ══════════════════════ 5. MORE PROJECTS ══════════════════════ -->
+<h2 align="center">More Projects</h2>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0F172A,70:172554,100:6D28D9&text=Prince%20Vishwakarma&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=57&animation=fadeIn" alt="Prince Vishwakarma profile banner"/>
+| Project      | What it is                           | Stack                                     | Links                                |
+| :----------- | :----------------------------------- | :---------------------------------------- | :----------------------------------- |
+| **StayNest** | Full-stack property listing platform | Node.js, Express, MongoDB, EJS, Bootstrap | [Repository](YOUR_STAYNEST_REPO_URL) |
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications;Learning+MERN+Stack+%F0%9F%9A%80;Practicing+DSA+and+problem+solving;Exploring+AI+and+Generative+AI;Build.+Learn.+Improve.+Repeat." alt="Animated typing introduction"/>
-</a>
+<!-- COPY THIS ROW FOR EACH NEW PROJECT (keep it right below the StayNest row, no blank line):
+| **Project Name** | One-line description | Tech, Tech, Tech | [Repository](REPO_URL) · [Live Demo](DEMO_URL) |
+-->
 
-<br/>
-
-*I build, learn, and grow — one commit at a time.* 🚀
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<a href="#about-me">About</a> •
-<a href="#tech-stack">Tech Stack</a> •
-<a href="#featured-project">Projects</a> •
-<a href="#github-stats">GitHub Stats</a> •
-<a href="#lets-connect">Connect</a>
+<sub><i>The next project slot is reserved for whatever I build next.</i></sub>
 
 </div>
 
----
+<!-- ══════════════════════ 6. GITHUB STATISTICS ══════════════════════ -->
+<h2 align="center">GitHub Statistics</h2>
 
-<a id="about-me"></a>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used programming languages" />
+</p>
 
-## 👨🏻‍💻 About Me
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+</p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+</p>
+
+<!-- ══════════════════════ 7. CONTRIBUTION SNAKE ══════════════════════ -->
+<!-- REQUIRES the GitHub Actions workflow from the setup guide. Until it has run once, these images will be broken. -->
+<h2 align="center">Contribution Heatmap</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+    <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<!-- ══════════════════════ 8. CURRENTLY LEARNING ══════════════════════ -->
+<h2 align="center">Currently Learning</h2>
+
+<div align="center">
 <table>
-<tr>
-<td width="48%" valign="top">
-
-### Hey, I'm Prince 👋
-
-I'm an aspiring software engineer passionate about building modern web applications, solving problems, and learning new technologies.
-
-- 💻 Learning full-stack development
-- 🚀 Building **StayNest**
-- 🧠 Practicing DSA and problem solving
-- 🤖 Exploring AI and Generative AI
-- 🎨 Interested in modern UI/UX
-- 🌱 Improving through consistent practice
-
-<br/>
-
-> *Small steps every day.*
->
-> *Lead to big results.*
-
-</td>
-<td width="52%" align="center" valign="middle">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:020617,50:172554,100:312E81&text=LEARN%20%2F%20BUILD%20%2F%20GROW&fontSize=22&fontColor=E0E7FF&animation=fadeIn" alt="Learn build grow visual"/>
-
-<br/>
-
-<sub>Curiosity today. Better code tomorrow.</sub>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">⚛️ <b>MERN Stack</b><br/><sub>Connecting React with Node, Express and MongoDB</sub></td>
+    <td width="50%">🧠 <b>Data Structures &amp; Algorithms</b><br/><sub>Building problem-solving habits, one problem at a time</sub></td>
+  </tr>
+  <tr>
+    <td width="50%">✨ <b>AI &amp; Generative AI</b><br/><sub>Understanding how AI can power real products</sub></td>
+    <td width="50%">🏗️ <b>Backend Architecture</b><br/><sub>Structuring APIs and data so apps stay scalable</sub></td>
+  </tr>
+  <tr>
+    <td width="50%">🧼 <b>Maintainable Code</b><br/><sub>Writing code that's easy to read, test and change</sub></td>
+    <td width="50%">🚀 <b>Real-World Projects</b><br/><sub>Learning most from shipping complete applications</sub></td>
+  </tr>
 </table>
+</div>
 
----
-
-<a id="tech-stack"></a>
-
-## ⚡ Tech Stack
+<!-- ══════════════════════ 9. GOALS ══════════════════════ -->
+<h2 align="center">My Goals</h2>
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="HTML CSS JavaScript React Bootstrap"/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose&theme=dark" alt="Node Express MongoDB Mongoose"/>
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git GitHub VS Code Postman"/>
+◆ **Become a skilled software engineer**<br/>
+◆ **Build meaningful full-stack applications**<br/>
+◆ **Improve my problem-solving skills**<br/>
+◆ **Contribute to open-source projects**<br/>
+◆ **Prepare for internships and software engineering opportunities**<br/>
+◆ **Keep learning consistently, even on slow days**
 
 </div>
 
----
+<!-- ══════════════════════ 10. LET'S CONNECT ══════════════════════ -->
+<h2 align="center">Let's Connect</h2>
 
-<a id="featured-project"></a>
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1026" alt="GitHub profile" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0b1026" alt="LinkedIn profile" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-e879f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1026" alt="Email me" /></a>
+</p>
 
-## 🚀 Featured Project
-
+<!-- ══════════════════════ 11. FOOTER ══════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:172554,50:312E81,100:0F172A&text=STAYNEST&fontSize=32&fontColor=FFFFFF&animation=fadeIn" alt="StayNest project banner"/>
+<sub><i>Build with purpose. Learn with curiosity. Grow with consistency.</i></sub>
 
-### 🏡 StayNest — Property Listing Platform
-
-*Find your perfect stay.*
-
-A full-stack web application designed for exploring, creating, and managing property listings with authentication, reviews, image storage, and interactive maps.
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✨ Key Features
-
-- 🔐 Authentication and authorization
-- 🏠 Create and manage listings
-- ⭐ Reviews and ratings
-- ☁️ Cloudinary image storage
-- 🗺️ Mapbox integration
-- 📱 Responsive interface
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Built With
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,bootstrap&theme=dark" alt="StayNest technology icons"/>
-
-<br/><br/>
-
-**Additional technologies**
-
-`EJS` `Mongoose` `Passport.js` `Cloudinary` `Mapbox`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/StayNest">
-<img src="https://img.shields.io/badge/⌘%20View%20Source%20Code-7C3AED?style=for-the-badge" alt="View source code"/>
-</a>
-
-<a href="YOUR_LIVE_DEMO_URL">
-<img src="https://img.shields.io/badge/↗%20Live%20Demo-2563EB?style=for-the-badge" alt="Live demo"/>
-</a>
-
-</div>
-
----
-
-## 💡 More Than Just Code
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🧠
-
-**Problem Solver**
-
-<br/>
-
-Practicing DSA and logical thinking.
-
-</td>
-<td align="center" width="33%">
-
-### 🎨
-
-**UI Enthusiast**
-
-<br/>
-
-Exploring modern, accessible interfaces.
-
-</td>
-<td align="center" width="33%">
-
-### 🚀
-
-**Builder**
-
-<br/>
-
-Turning concepts into working projects.
-
-</td>
-</tr>
-</table>
-
----
-
-<a id="github-stats"></a>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1" alt="GitHub profile statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=020617&ring=A78BFA&fire=38BDF8&currStreakLabel=60A5FA" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
-
-<sub>Every contribution is another step forward.</sub>
-
-</div>
-
----
-
-## 🎯 Currently Learning
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 My Focus
-
-- 🔵 MERN stack development
-- 🔵 Data Structures & Algorithms
-- 🔵 Backend architecture
-- 🔵 Database design
-- 🔵 AI-powered applications
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 My Goals
-
-- [ ] Build production-quality projects
-- [ ] Improve problem-solving skills
-- [ ] Contribute to open source
-- [ ] Prepare for software internships
-- [ ] Become a stronger engineer
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Consistency+over+perfection.;Progress+over+comparison.;Build+something+better+every+day." alt="Animated personal philosophy"/>
-
-</div>
-
----
-
-<a id="lets-connect"></a>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm open to learning, collaboration, and building projects that solve real-world problems.
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-*Have an idea? Let's build something meaningful.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:6D28D9,50:172554,100:020617" alt="Decorative profile footer"/>
-
-<sub>Designed with 💜 by Prince Vishwakarma</sub>
-
-<br/>
-
-<sub>Dream big • Keep learning • Never stop building</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0b1026,45:1b1464,80:5b2a86,100:0b1026&section=footer" alt="Decorative gradient wave footer" />
 
 </div>
