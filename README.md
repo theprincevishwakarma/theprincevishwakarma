@@ -18,19 +18,19 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/theprincevishwakarma">
 <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/prince-vishwakarma-0779b1431/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="bitofprince@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=theprincevishwakarma&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -61,7 +61,7 @@ Hey! I'm **Prince Vishwakarma**, an aspiring software engineer passionate about 
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" alt="Frontend technologies"/>
 
 ### Backend & Database
 
@@ -69,7 +69,7 @@ Hey! I'm **Prince Vishwakarma**, an aspiring software engineer passionate about 
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,githubaction,docker,kubernetes&theme=dark" alt="Developer tools"/>
 
 </div>
 
@@ -110,17 +110,17 @@ Hey! I'm **Prince Vishwakarma**, an aspiring software engineer passionate about 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/theprincevishwakarma">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=theprincevishwakarma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
+<a href="https://github.com/theprincevishwakarma">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprincevishwakarma&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=theprincevishwakarma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -130,7 +130,7 @@ Hey! I'm **Prince Vishwakarma**, an aspiring software engineer passionate about 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/theprincevishwakarma/theprincevishwakarma/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
 
@@ -165,13 +165,13 @@ Hey! I'm **Prince Vishwakarma**, an aspiring software engineer passionate about 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/theprincevishwakarma">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/prince-vishwakarma-0779b1431/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="bitofprince@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
