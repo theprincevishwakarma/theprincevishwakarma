@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Prince Vishwakarma, Aspiring Software Engineer and Full-Stack Developer">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#05071a"/>
+      <stop offset="0.55" stop-color="#1b1464"/>
+      <stop offset="1" stop-color="#5b2a86"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="100%" r="65%">
+      <stop offset="0" stop-color="#e879f9" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#e879f9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f0abfc"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .s { fill: #fff; animation: tw 3s ease-in-out infinite; }
+    .b { animation-duration: 4s; animation-delay: -1s; }
+    .c { animation-duration: 5s; animation-delay: -2s; }
+    @keyframes tw { 0%, 100% { opacity: 0.15; } 50% { opacity: 1; } }
+    text { font-family: "Segoe UI", Helvetica, Arial, sans-serif; text-anchor: middle; }
+  </style>
+  <rect width="1200" height="420" fill="url(#sky)"/>
+  <rect width="1200" height="420" fill="url(#glow)"/>
+  <circle cx="1030" cy="80" r="26" fill="#e0e7ff" opacity="0.9"/>
+  <g>
+    <circle class="s" cx="90" cy="60" r="1.6"/><circle class="s b" cx="210" cy="130" r="1.2"/>
+    <circle class="s c" cx="330" cy="45" r="1.8"/><circle class="s" cx="450" cy="110" r="1.2"/>
+    <circle class="s b" cx="570" cy="40" r="1.6"/><circle class="s c" cx="700" cy="95" r="1.2"/>
+    <circle class="s" cx="820" cy="55" r="1.8"/><circle class="s b" cx="920" cy="140" r="1.2"/>
+    <circle class="s c" cx="1110" cy="150" r="1.6"/><circle class="s" cx="150" cy="200" r="1.2"/>
+    <circle class="s b" cx="1150" cy="40" r="1.2"/><circle class="s c" cx="40" cy="130" r="1.6"/>
+  </g>
+  <path d="M0 380 L140 320 L260 370 L420 265 L560 360 L700 290 L860 375 L1020 280 L1200 365 V420 H0 Z" fill="#1e1b4b" opacity="0.9"/>
+  <path d="M0 405 L180 365 L330 400 L520 340 L700 405 L900 355 L1080 400 L1200 375 V420 H0 Z" fill="#0b1026"/>
+  <text x="600" y="150" font-size="60" font-weight="700" fill="url(#title)">Prince Vishwakarma</text>
+  <text x="600" y="200" font-size="22" fill="#7dd3fc">Aspiring Software Engineer | Full-Stack Developer</text>
+  <text x="600" y="236" font-size="16" fill="#c7d2fe" opacity="0.85">Dream. Code. Build. Repeat.</text>
+</svg>

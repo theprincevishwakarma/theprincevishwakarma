@@ -1,7 +1,7 @@
 <!-- ══════════════════════ 1. CINEMATIC HERO ══════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0b1026,45:1b1464,80:5b2a86,100:0b1026&section=header&text=Prince%20Vishwakarma&fontSize=52&fontColor=e0e7ff&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=7dd3fc&animation=fadeIn" alt="Prince Vishwakarma, Aspiring Software Engineer and Full-Stack Developer" />
+<img width="100%" src="./assets/hero.svg" alt="Prince Vishwakarma, Aspiring Software Engineer and Full-Stack Developer" />
 
 <a href="https://github.com/theprincevishwakarma">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&height=48&lines=Dream.+Code.+Build.+Repeat.;Learning+full-stack+development;Practicing+DSA%2C+one+problem+at+a+time;Exploring+AI+and+Generative+AI;Building+real-world+projects" alt="Dream. Code. Build. Repeat." />
